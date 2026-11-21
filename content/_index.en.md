@@ -78,8 +78,8 @@ features:
     - title: "More than one harness"
       body: "Claude Code, Codex and Antigravity can use the shared skills and rules. Dedicated subagents are available in Claude Code, and blocking hooks there when you install from the repository marketplace. The matrix below shows how each host loads the kit."
       where:
-        label: "README: Other Harnesses"
-        path: "blob/README.md#other-harnesses-codex--antigravity--gemini-cli"
+        label: "README: Where it runs"
+        path: "blob/README.md#where-it-runs"
   note: "[Development notes: C/C++ indexing and project setup](/blog/code-navigation-and-project-setup/)"
 
 harnesses:

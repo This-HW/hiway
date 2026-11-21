@@ -78,8 +78,8 @@ features:
     - title: "여러 하네스에서"
       body: "공통 스킬과 규칙은 Claude Code·Codex·Antigravity에서 사용할 수 있습니다. 전용 서브에이전트는 Claude Code에서 지원하고, 도구 호출을 막는 훅은 Claude Code에 레포 마켓플레이스로 설치했을 때 지원합니다. 하네스별 적용 방식은 아래 표에서 확인할 수 있습니다."
       where:
-        label: "README: Other Harnesses"
-        path: "blob/README.md#other-harnesses-codex--antigravity--gemini-cli"
+        label: "README: Where it runs"
+        path: "blob/README.md#where-it-runs"
   note: "[개발 노트: C/C++ 인덱싱과 프로젝트 설정](/ko/blog/code-navigation-and-project-setup/)"
 
 harnesses:
